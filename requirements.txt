@@ -1,0 +1,10 @@
+metatrader5==5.0.45
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+matplotlib==3.7.2
+plotly==5.16.1
+pytz==2023.3
+requests==2.31.0
+python-dotenv==1.0.0
+ta==0.10.2
