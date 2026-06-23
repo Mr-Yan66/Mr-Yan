@@ -1,0 +1,23 @@
+{
+  "weltrader": {
+    "api_key": "YOUR_API_KEY",
+    "api_secret": "YOUR_API_SECRET",
+    "account_id": "YOUR_ACCOUNT_ID"
+  },
+  "forex_pairs": ["EURUSD", "GBPUSD", "USDJPY", "AUDUSD", "NZDUSD"],
+  "timeframes": [5, 15, 30],
+  "analysis": {
+    "check_interval_minutes": 30,
+    "min_strength_percentage": 65,
+    "support_resistance_levels": 5
+  },
+  "signals": {
+    "blue_uptrend": "Haut signal de hausse",
+    "red_downtrend": "Haut signal de baisse"
+  },
+  "risk_management": {
+    "max_loss_percentage": 2,
+    "take_profit_percentage": 5,
+    "stop_loss_percentage": 1.5
+  }
+}
